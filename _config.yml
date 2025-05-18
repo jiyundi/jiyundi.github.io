@@ -53,20 +53,20 @@ social-network-links:
   email: "jiyundi@arizona.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: jiyundi
+  github: "jiyundi"
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-   linkedin: jiyundi
+   linkedin: "jiyundi"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-   telephone: +1(520)304-7366
+   telephone: "+1(520)304-7366"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -74,7 +74,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: 0000-0002-1570-7928
+   ORCID: "0000-0002-1570-7928"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
