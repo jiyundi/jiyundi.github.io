@@ -58,31 +58,31 @@ social-network-links:
 # patreon: DeanAttali
 # youtube: "@daattali"
 # whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-   linkedin: "jiyundi"
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-   telephone: "+1(520)304-7366"
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-   ORCID: "0000-0002-1570-7928"
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
+# medium: yourname
+# reddit: yourname or r/yoursubreddit
+  linkedin: "jiyundi"
+# xing: yourname
+# stackoverflow: "3943160/daattali"
+# snapchat: deanat78
+# instagram: deanat78
+# spotify: yourname
+  telephone: "+1 (520)304-7366"
+# steam: deanat78
+# twitch: yourname
+# yelp: yourname
+# telegram: yourname
+# calendly: yourname
+# mastodon: instance.url/@username
+# bluesky: yourname
+  ORCID: "0000-0002-1570-7928"
+# google-scholar: your google scholar
+# discord: "invite_code" or "users/userid" or "invite/invite_code"
+# kaggle: yourname
+# hackerrank: yourname
+# gitlab: yourname
+# itchio: yourname
+# untappd: yourname
+# strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
