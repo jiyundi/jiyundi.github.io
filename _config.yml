@@ -36,7 +36,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -87,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is currently under construction since May 2025
+rss-description: This website has been currently under construction since May 2025
 
 ###########################
 # --- General options --- #
@@ -106,7 +106,7 @@ share-links-active:
 url-pretty: "jiyundi.github.io"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
