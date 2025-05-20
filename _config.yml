@@ -20,12 +20,11 @@ author: Jiyun Di
 ###############################################
 
 navbar-links:
-  Research:  "aboutme"
-  Résumé/CV: "https://jiyundi.github.io/old/PDFs/Jiyun_Di_Resume.pdf"
-  Life: 
-    - Useful Notes:      "https://jiyundi.github.io/old/TBD.html"
-    - Hometown & Travel: "https://jiyundi.github.io/old/TBD.html"
-  简体中文:   "https://jiyundi.github.io/old/TBD.html"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
