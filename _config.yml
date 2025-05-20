@@ -20,11 +20,12 @@ author: Jiyun Di
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:  "aboutme"
+  Résumé/CV: "https://jiyundi.github.io/old/PDFs/Jiyun_Di_Resume.pdf"
+  Life: 
+    - Useful Notes:      "https://jiyundi.github.io/old/TBD.html"
+    - Hometown & Travel: "https://jiyundi.github.io/old/TBD.html"
+  简体中文:   "https://jiyundi.github.io/old/TBD.html"
 
 ################
 # --- Logo --- #
@@ -86,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is currently under construction since May 2025
+rss-description: This website has been currently under construction since May 2025
 
 ###########################
 # --- General options --- #
@@ -261,7 +262,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Arizona"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
