@@ -20,11 +20,12 @@ author: Jiyun Di
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:  "aboutme"
+  Résumé/CV: "https://jiyundi.github.io/old/PDFs/Jiyun_Di_Resume.pdf"
+  Life: 
+    - Useful Notes:      "https://jiyundi.github.io/old/TBD.html"
+    - Hometown & Travel: "https://jiyundi.github.io/old/TBD.html"
+  简体中文:   "https://jiyundi.github.io/old/TBD.html"
 
 ################
 # --- Logo --- #
@@ -35,7 +36,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -105,7 +106,7 @@ share-links-active:
 url-pretty: "jiyundi.github.io"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -261,7 +262,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Arizona"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
