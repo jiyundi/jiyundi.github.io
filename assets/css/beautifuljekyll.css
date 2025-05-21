@@ -1129,5 +1129,7 @@ pre {
 /* Jiyun's */
 .wide-gray-banner {
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 15px inherit;
 }
