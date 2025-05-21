@@ -1132,5 +1132,6 @@ pre {
   /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   /* margin-top: 20px; */
   /* margin-bottom: 20px; */
-  padding: 0px inherit;
+  padding: 2rem 2rem;
+  /* padding: 0px inherit; */
 }
