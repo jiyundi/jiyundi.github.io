@@ -89,6 +89,7 @@ blockquote p:first-child {
 }
 .jumbotron {
   background: #EEE;
+  padding: 2rem 2rem;
 }
 hr.small {
   max-width: 6.25rem;
