@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
+gem "bigdecimal"
+gem "logger"
+
 source "https://rubygems.org"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
