@@ -20,11 +20,13 @@ author: Jiyun Di
 ###############################################
 
 navbar-links:
-  Research:  "aboutme"
+  About me: "aboutme"
+  Spectra Viewer: "spectra-viewer"
+  Research:  "https://jiyundi.github.io/old/rsch.html"
   Résumé/CV: "https://jiyundi.github.io/old/PDFs/Jiyun_Di_Resume.pdf"
   Life: 
-    - Useful Notes:      "https://jiyundi.github.io/old/TBD.html"
-    - Hometown & Travel: "https://jiyundi.github.io/old/TBD.html"
+    - Useful Notes:      "https://jiyundi.github.io/old/life.html"
+    - Hometown & Travel: "https://jiyundi.github.io/old/life.html"
   简体中文:   "https://jiyundi.github.io/old/TBD.html"
 
 ################

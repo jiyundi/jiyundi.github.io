@@ -1,0 +1,372 @@
+{
+  "runs_20260710": {
+    "Slit_003": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_003/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_003/corner_all.png"
+    },
+    "Slit_005": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_005/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_005/corner_all.png"
+    },
+    "Slit_007": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_007/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_007/corner_all.png"
+    },
+    "Slit_008": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_008/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_008/corner_all.png"
+    },
+    "Slit_010": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_010/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_010/corner_all.png"
+    },
+    "Slit_013": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_013/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_013/corner_all.png"
+    },
+    "Slit_014": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_014/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_014/corner_all.png"
+    },
+    "Slit_015": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_015/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_015/corner_all.png"
+    },
+    "Slit_017": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_017/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_017/corner_all.png"
+    },
+    "Slit_018": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_018/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_018/corner_all.png"
+    },
+    "Slit_019": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_019/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_019/corner_all.png"
+    },
+    "Slit_020": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_020/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_020/corner_all.png"
+    },
+    "Slit_021": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_021/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_021/corner_all.png"
+    },
+    "Slit_023": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_023/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_023/corner_all.png"
+    },
+    "Slit_024": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_024/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_024/corner_all.png"
+    },
+    "Slit_025": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_025/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_025/corner_all.png"
+    },
+    "Slit_026": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_026/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_026/corner_all.png"
+    },
+    "Slit_027": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_027/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_027/corner_all.png"
+    },
+    "Slit_028": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_028/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_028/corner_all.png"
+    },
+    "Slit_029": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_029/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_029/corner_all.png"
+    },
+    "Slit_030": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_030/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_030/corner_all.png"
+    },
+    "Slit_032": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_032/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_032/corner_all.png"
+    },
+    "Slit_033": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_033/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_033/corner_all.png"
+    },
+    "Slit_035": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_035/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_035/corner_all.png"
+    },
+    "Slit_036": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_036/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_036/corner_all.png"
+    },
+    "Slit_039": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_039/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_039/corner_all.png"
+    },
+    "Slit_040": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_040/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_040/corner_all.png"
+    },
+    "Slit_042": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_042/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_042/corner_all.png"
+    },
+    "Slit_043": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_043/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_043/corner_all.png"
+    },
+    "Slit_047": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_047/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_047/corner_all.png"
+    },
+    "Slit_049": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_049/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_049/corner_all.png"
+    },
+    "Slit_050": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_050/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_050/corner_all.png"
+    },
+    "Slit_052": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_052/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_052/corner_all.png"
+    },
+    "Slit_054": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_054/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_054/corner_all.png"
+    },
+    "Slit_055": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_055/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_055/corner_all.png"
+    },
+    "Slit_056": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_056/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_056/corner_all.png"
+    },
+    "Slit_057": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_057/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_057/corner_all.png"
+    },
+    "Slit_059": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_059/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_059/corner_all.png"
+    },
+    "Slit_060": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_060/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_060/corner_all.png"
+    },
+    "Slit_061": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_061/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_061/corner_all.png"
+    },
+    "Slit_063": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_063/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_063/corner_all.png"
+    },
+    "Slit_064": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_064/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_064/corner_all.png"
+    },
+    "Slit_065": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_065/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_065/corner_all.png"
+    },
+    "Slit_067": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_067/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_067/corner_all.png"
+    },
+    "Slit_069": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_069/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_069/corner_all.png"
+    },
+    "Slit_070": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_070/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_070/corner_all.png"
+    },
+    "Slit_072": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_072/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_072/corner_all.png"
+    },
+    "Slit_075": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_075/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_075/corner_all.png"
+    },
+    "Slit_077": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_077/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_077/corner_all.png"
+    },
+    "Slit_078": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_078/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_078/corner_all.png"
+    },
+    "Slit_079": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_079/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_079/corner_all.png"
+    },
+    "Slit_080": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_080/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_080/corner_all.png"
+    },
+    "Slit_082": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_082/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_082/corner_all.png"
+    },
+    "Slit_084": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_084/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_084/corner_all.png"
+    },
+    "Slit_087": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_087/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_087/corner_all.png"
+    },
+    "Slit_088": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_088/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_088/corner_all.png"
+    },
+    "Slit_090": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_090/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_090/corner_all.png"
+    },
+    "Slit_091": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_091/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_091/corner_all.png"
+    },
+    "Slit_092": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_092/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_092/corner_all.png"
+    },
+    "Slit_095": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_095/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_095/corner_all.png"
+    },
+    "Slit_096": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_096/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_096/corner_all.png"
+    },
+    "Slit_097": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_097/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_097/corner_all.png"
+    },
+    "Slit_098": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_098/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_098/corner_all.png"
+    },
+    "Slit_099": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_099/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_099/corner_all.png"
+    },
+    "Slit_100": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_100/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_100/corner_all.png"
+    },
+    "Slit_101": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_101/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_101/corner_all.png"
+    },
+    "Slit_102": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_102/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_102/corner_all.png"
+    },
+    "Slit_105": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_105/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_105/corner_all.png"
+    },
+    "Slit_107": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_107/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_107/corner_all.png"
+    },
+    "Slit_108": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_108/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_108/corner_all.png"
+    },
+    "Slit_109": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_109/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_109/corner_all.png"
+    },
+    "Slit_110": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_110/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_110/corner_all.png"
+    },
+    "Slit_112": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_112/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_112/corner_all.png"
+    },
+    "Slit_113": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_113/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_113/corner_all.png"
+    },
+    "Slit_115": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_115/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_115/corner_all.png"
+    },
+    "Slit_116": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_116/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_116/corner_all.png"
+    },
+    "Slit_117": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_117/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_117/corner_all.png"
+    },
+    "Slit_118": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_118/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_118/corner_all.png"
+    },
+    "Slit_119": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_119/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_119/corner_all.png"
+    },
+    "Slit_120": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_120/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_120/corner_all.png"
+    },
+    "Slit_127": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_127/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_127/corner_all.png"
+    },
+    "Slit_128": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_128/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_128/corner_all.png"
+    },
+    "Slit_129": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_129/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_129/corner_all.png"
+    },
+    "Slit_130": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_130/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_130/corner_all.png"
+    },
+    "Slit_131": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_131/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_131/corner_all.png"
+    },
+    "Slit_132": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_132/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_132/corner_all.png"
+    },
+    "Slit_133": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_133/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_133/corner_all.png"
+    },
+    "Slit_135": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_135/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_135/corner_all.png"
+    },
+    "Slit_136": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_136/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_136/corner_all.png"
+    },
+    "Slit_138": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_138/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_138/corner_all.png"
+    },
+    "Slit_139": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_139/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_139/corner_all.png"
+    },
+    "Slit_141": {
+      "spec": "/assets/runs_to_view/runs_20260710/Slit_141/best_fit_spec.png",
+      "corner": "/assets/runs_to_view/runs_20260710/Slit_141/corner_all.png"
+    }
+  }
+}
